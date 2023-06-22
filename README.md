@@ -37,6 +37,8 @@
     - 
 ## Screenshots From Project
 ![Start Page]( Poster/StartPage.png)
+- <img src="Poster/StartPage.png" alt="Start Page" width="300" height="300">
+
 
 
 ## Technologies Used

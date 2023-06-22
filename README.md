@@ -36,11 +36,15 @@
     - Cancelled reservations are removed from the Firebase database.
     - 
 ## Screenshots From Project
-![Start Page]( Poster/StartPage.png)
 - <img src="Poster/StartPage.png" alt="Start Page" width="360 " height="800">
+- <img src="Poster/EnterEmail.png" alt="Email Page" width="360 " height="800">
 - <img src="Poster/Profile.png" alt="Profile Page" width="360 " height="800">
-- <img src="Poster/ProfileEdit.png" alt="Edit Profile" width="360 " height="800">
+- <img src="Poster/ProfileEdit.png" alt="Edit Profile Page" width="360 " height="800">
 - <img src="Poster/Favorites.png" alt="Favorites Page" width="360 " height="800">
+- <img src="Poster/Search.png" alt="Search Page" width="360 " height="800">
+- <img src="Poster/Search Results.png" alt="Search Results Page" width="360 " height="800">
+- <img src="Poster/Reservations.png" alt="Reservations Page" width="360 " height="800">
+- <img src="Poster/HotelDetail.png" alt="Detailed Hotel Page" width="360 " height="800">
 
 
 

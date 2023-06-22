@@ -37,7 +37,10 @@
     - 
 ## Screenshots From Project
 ![Start Page]( Poster/StartPage.png)
-- <img src="Poster/StartPage.png" alt="Start Page" width="300" height="300">
+- <img src="Poster/StartPage.png" alt="Start Page" width="360 " height="800">
+- <img src="Poster/Profile.png" alt="Profile Page" width="360 " height="800">
+- <img src="Poster/ProfileEdit.png" alt="Edit Profile" width="360 " height="800">
+- <img src="Poster/Favorites.png" alt="Favorites Page" width="360 " height="800">
 
 
 

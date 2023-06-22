@@ -35,6 +35,10 @@
 - Cancelling Reservations:
     - Users can cancel their existing reservations.
     - Cancelled reservations are removed from the Firebase database.
+    - 
+## Screenshots From Project
+![Start Page]( Poster/StartPage.png)
+
 
 ## Technologies Used
 
@@ -42,5 +46,4 @@
 - Firebase Realtime Database: Used to store hotel and reservation data.
 
 ## API 
- Hotels API used in this project. Link : https://rapidapi.com/apidojo/api/hotels4/
- 
+ - Hotels API used in this project. Link : https://rapidapi.com/apidojo/api/hotels4/

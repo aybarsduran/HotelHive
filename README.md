@@ -1,4 +1,4 @@
-#HotelHive
+# HotelHive
 ## Links
 - Figma Link: https://www.figma.com/file/21JAYPqS5vuTULC3PKj7OP/HotelHive-team-library?type=design&node-id=0%3A1&t=uLyIkSoICgDvfm5j-1
 ## Features

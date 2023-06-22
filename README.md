@@ -34,8 +34,11 @@
 - Cancelling Reservations:
     - Users can cancel their existing reservations.
     - Cancelled reservations are removed from the Firebase database.
-    - 
 ## Screenshots From Project
+| <img src="Poster/StartPage.png" alt="Start Page" width="360" height="800"> | <img src="Poster/EnterEmail.png" alt="Email Page" width="360" height="800"> |
+|---|---|
+| Start Page | Email Page |
+
 - <img src="Poster/StartPage.png" alt="Start Page" width="360 " height="800">
 - <img src="Poster/EnterEmail.png" alt="Email Page" width="360 " height="800">
 - <img src="Poster/Profile.png" alt="Profile Page" width="360 " height="800">

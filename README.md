@@ -1,7 +1,6 @@
-# 23b-cse234-term-project-aybarsduran
+#HotelHive
 ## Links
 - Figma Link: https://www.figma.com/file/21JAYPqS5vuTULC3PKj7OP/HotelHive-team-library?type=design&node-id=0%3A1&t=uLyIkSoICgDvfm5j-1
-- Youtube Link(sorry for the sound quality and late submission) : https://youtu.be/Q8UjK2vhK7E
 ## Features
 
 - User Registration and Authentication:

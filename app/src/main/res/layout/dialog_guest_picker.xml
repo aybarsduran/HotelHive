@@ -1,0 +1,159 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:padding="16dp">
+
+        <ImageButton
+            android:id="@+id/closeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="Close"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:src="@drawable/icon_close" />
+
+        <!-- Add more content here, such as number pickers for selecting guests -->
+
+        <TextView
+            android:id="@+id/guestsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="90dp"
+            android:text="Guests"
+            android:textColor="#000000"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:id="@+id/adultsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Adults"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="#3D3D3D"
+            android:layout_marginTop="8dp"
+            android:layout_marginStart="16dp" />
+
+
+        <ImageButton
+            android:id="@+id/adultsMinButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="Close"
+            android:layout_marginLeft="162dp"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:src="@drawable/icon_mincircle" />
+
+        <TextView
+            android:id="@+id/adultsCountText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="12dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="1"
+            android:textColor="#3D3D3D"
+            android:textSize="25sp" />
+
+        <ImageButton
+            android:id="@+id/adultsPlusButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="Close"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:src="@drawable/icon_addcircle" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp">
+
+        <TextView
+            android:id="@+id/childsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Childs"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="#3D3D3D"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"/>
+
+        <ImageButton
+            android:id="@+id/childsMinButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="Close"
+            android:layout_marginLeft="165dp"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:src="@drawable/icon_mincircle" />
+
+        <TextView
+            android:id="@+id/childsCountText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="12dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="0"
+            android:textColor="#3D3D3D"
+            android:textSize="25sp" />
+
+        <ImageButton
+            android:id="@+id/childsPlusButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="Close"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:src="@drawable/icon_addcircle" />
+
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/confirmButton"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_margin="16dp"
+        android:textSize="24sp"
+        android:text="Confirm"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="#E1A141"
+        app:cornerRadius="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="250dp"
+        app:strokeColor="#000000" />
+
+</LinearLayout>

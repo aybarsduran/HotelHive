@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HotelHive</string>
+    <string name="google_default_web_client_id">938362529418-57n01bhspdktu1i1cr9d2e787r552cln.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="gender_options">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938362529418",
+    "project_id": "hotelhived7",
+    "storage_bucket": "hotelhived7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938362529418:android:2f98ebdbf61f1904c8af73",
+        "android_client_info": {
+          "package_name": "com.example.hotelhive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938362529418-a2lcpbv5ajc3kcp8nvfsnecqcub772p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hotelhive",
+            "certificate_hash": "db947ae0d95f0fc627bd04604df259a989446907"
+          }
+        },
+        {
+          "client_id": "938362529418-57n01bhspdktu1i1cr9d2e787r552cln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu70CNSeNlsYFM1w5WvdBMZECjll0MdNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938362529418-57n01bhspdktu1i1cr9d2e787r552cln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
